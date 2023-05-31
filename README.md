@@ -29,3 +29,5 @@ The application allows you to set various parameters of the evolutionary algorit
 All these parameters can be set in the configuration file - application.properties.
 
 ## Technologies used
+- Java 8
+- Spring Boot framework
